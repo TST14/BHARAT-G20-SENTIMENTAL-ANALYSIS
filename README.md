@@ -23,3 +23,6 @@ https://www.g20.org/en/media-resources/speeches/september-23/session-3.html
 
 Prime Minister's remarks at the closing ceremony of G20 Summit
 https://www.g20.org/en/media-resources/speeches/september-23/g20-closing-remark.html
+
+
+![Alt text](<WordCloud of Speech Combined.png>)
